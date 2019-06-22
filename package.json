@@ -1,0 +1,24 @@
+{
+  "name": "fake-generator",
+  "version": "1.0.0",
+  "description": "A service that returns made up data for testing purposes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SiouxsieAsylum/FakeGenerator.git"
+  },
+  "author": "DreDotJs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SiouxsieAsylum/FakeGenerator/issues"
+  },
+  "homepage": "https://github.com/SiouxsieAsylum/FakeGenerator#readme",
+  "dependencies": {
+    "commander": "^2.20.0",
+    "faker": "^4.1.0",
+    "readline": "^1.3.0"
+  }
+}
